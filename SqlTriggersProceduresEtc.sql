@@ -1,7 +1,7 @@
-profecional
+
 delimiter //
 create trigger trg_verificar_disiponibilidad_profesional before insert on Turno for each row
-    beginadopcion
+    begin
         declare v_conteo int;
         select count(*) into v_conteo from Turno
         where id_Profecional = new.id_Profecional and fecha = new.fecha;
