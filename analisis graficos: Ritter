@@ -1,8 +1,6 @@
-TP Base de Datos - analisis graficos: Ritter
+todas las ventas sin problemas. Por ahora el volumen es manejable.
 
-1. Ingresos Generales Mirando el número grande del tablero, el total facturado es de $65.700 . El sistema está funcionando bien y registra todas las ventas sin problemas. Por ahora el volumen es manejable.
-
-2. El tema del Stock (Gráfico de Barras) Acá se ve un problema clarísimo. Tenemos muchísimas vacunas antirrábicas (casi 100), que es un montón y sobran. Pero por otro lado, hay vacunas importantes como la de Corona Virus o Rinotraqueitis que quedan re pocas (menos de 40).
+2. El tema del Stock (Gráfico de Barras) Acá se ve un problema evidente. Tenemos muchísimas vacunas antirrábicas (casi 100), que es demasiado y sobran. Pero por otro lado, hay vacunas importantes como la de Corona Virus o Rinotraqueitis que quedan re pocas (menos de 40).
 
 Conclusión: Hay que dejar de comprar antirrábicas por un tiempo y pedir urgente las que faltan para no quedarnos sin stock.
 
